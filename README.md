@@ -27,7 +27,7 @@
 
 &nbsp; 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=won-00&theme=dark&shadow=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=won-00&theme=vue&icons=true)
 
 
 <!--
